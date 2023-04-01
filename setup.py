@@ -11,7 +11,7 @@ install_requires = [
   'requests==2.18.4',
   'six==1.11.0',
   'ujson==1.35',
-  'graphql-core==2.0',
+  'graphql-core>=1.1,<3',
   'pygql==0.1.4',
   'fake-useragent==0.1.8'
 ]
